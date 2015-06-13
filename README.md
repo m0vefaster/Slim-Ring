@@ -1,2 +1,2 @@
-# Slim-RIng
+# Slim-Ring
 Data Center Topology
